@@ -90,7 +90,29 @@ Gorąco zachęcam do kontaktu z autorami poszczególnych dyscyplin, zarówno za 
     - Osoby
         - Anna K.
         - Mariusz B.
-    - Uwagi:
+    - Uwagi
         - Proszę nie poruszać tematu SAFe i skalowania SCRUMa
+- **Behavor Driven Development**
+- **KanBan**
+- **Test Driven Development**
+- **Scaled Agile Framework, SAFe/ Nexus / Large-scale SCRUM**
+- **Extreme Programming**
+- **Crystal**
+- **Domain Driven Design**
+    - Osoby
+        - Szymon K.
+- **Lean Software Development**
+- **EventStorming**
+    - Uwagi
+        - Podczas prezentacji techniki można przeprowadzić przykładową sesję modelowania
+- **Feature Driven Development**
+- **User Story Mapping**
+    - Uwagi
+        - Podczas prezentacji techniki można przeprowadzić przykładową sesję modelowania
+- **Agile Unified Process**
+    - Uwagi
+        - Proszę odnieść się także do modelu Rational Unified Process
+- **Pair Programming / Refactoring**    
 
 Plan będzie uzupełniany o kolejne dyscypliny, zgłoszeń do kolejnych tematów można dokonywać podczas zajęć.
+
