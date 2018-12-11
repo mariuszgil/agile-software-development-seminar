@@ -109,6 +109,9 @@ Gorąco zachęcam do kontaktu z autorami poszczególnych dyscyplin, zarówno za 
 - **User Story Mapping**
     - Uwagi
         - Podczas prezentacji techniki można przeprowadzić przykładową sesję modelowania
+    - Osoby
+        - Zuzia K.
+        - Stachu
 - **Agile Unified Process**
     - Uwagi
         - Proszę odnieść się także do modelu Rational Unified Process
@@ -116,3 +119,11 @@ Gorąco zachęcam do kontaktu z autorami poszczególnych dyscyplin, zarówno za 
 
 Plan będzie uzupełniany o kolejne dyscypliny, zgłoszeń do kolejnych tematów można dokonywać podczas zajęć.
 
+## Prezentacje
+
+Lista prezentacji przedstawionych podczas zajęć:
+
+- [SCRUM](assets/presentations/scrum.pdf)
+- [Behaviour Driven Development](assets/presentations/behaviour-driven-development.pptx)
+- [Kanban](assets/presentations/kanban.pdf)
+- [Large scale SCRUM](assets/presentations/large-scale-scrum.pdf)
