@@ -127,3 +127,4 @@ Lista prezentacji przedstawionych podczas zajęć:
 - [Behaviour Driven Development](assets/presentations/behaviour-driven-development.pptx)
 - [Kanban](assets/presentations/kanban.pdf)
 - [Large scale SCRUM](assets/presentations/large-scale-scrum.pdf)
+- [User Story Mapping](assets/presentations/user-story-mapping.pdf)
