@@ -129,3 +129,4 @@ Lista prezentacji przedstawionych podczas zajęć:
 - [Large scale SCRUM](assets/presentations/large-scale-scrum.pdf)
 - [User Story Mapping](assets/presentations/user-story-mapping.pdf)
 - [Extreme Programming](assets/presentations/extreme-programming.pdf)
+- [Domain Driven Design](https://prezi.com/view/ICCftFYdRha8YpDpG7fK/)
