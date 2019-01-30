@@ -131,3 +131,4 @@ Lista prezentacji przedstawionych podczas zajęć:
 - [Extreme Programming](assets/presentations/extreme-programming.pdf)
 - [Test driven Development](assets/presentations/tdd.pdf)
 - [Domain Driven Design](https://prezi.com/view/ICCftFYdRha8YpDpG7fK/)
+- [Lean Software Development](https://prezi.com/view/onsI2kyhC2NpRKjibduG)
